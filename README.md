@@ -11,6 +11,7 @@ I'm a software engineer at [57Blocks](https://57blocks.io/) in Medellin, CO 🌆
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about [Flutter](https://flutter.dev)
 - 😄 Pronouns: he/him/his
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jamescardona11/)
 - ⚡ Fun fact: I like to play poker ♠️🙊
 
 
