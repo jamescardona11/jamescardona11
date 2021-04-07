@@ -4,7 +4,7 @@
 **jamescardona11/jamescardona11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm a software engineer at [57Blocks](https://57blocks.io/) in Medellin, CO 🌆
+I'm a software engineer in [Flutter](https://57blocks.io/) in Medellin, CO 🌆
 
 - 🔭 I’m currently working on [argo library](https://github.com/jamescardona11/argo)
 - 🌱 I’m currently learning World history
