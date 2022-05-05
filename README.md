@@ -18,8 +18,8 @@ I'm a software engineer at [57Blocks][work] in Medellin, CO 🌆
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about [Flutter][flutter]
 - 😄 Pronouns: he/him/his
-- 📫 How to reach me: [Linkedin][linkedin] & [Twitter][twitter]
-- 📚 I have a new blog hobbie, [hashnode][hashnode] and [dev.to][devto]
+- 📫 How to reach me: [Linkedin][linkedin]
+- 📚 I have a new blog hobbie, [blog][pblog]
 - ⚡ Fun fact: I like to play poker ♠️
    
 
@@ -43,3 +43,4 @@ I'm a software engineer at [57Blocks][work] in Medellin, CO 🌆
 
 [devto]: <https://dev.to/jamescardona11>
 [hashnode]: <https://jamescardona11.hashnode.dev>
+[pblog]: <https://jamescardona11.com>
