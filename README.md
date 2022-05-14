@@ -13,6 +13,7 @@
 I'm a software engineer at [57Blocks][work] in Medellin, CO 🌆
 
 Download my profile in PDF: [Profile][cv]
+
 Follow my learning path: [Path][path]
 
 - 🔭 I’m currently working on [argo][argo] & [moncli][moncli]
