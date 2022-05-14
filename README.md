@@ -12,6 +12,9 @@
 ### About me
 I'm a software engineer at [57Blocks][work] in Medellin, CO 🌆
 
+Download my profile in PDF: [Profile][cv]
+Follow my learning path: [Path][path]
+
 - 🔭 I’m currently working on [argo][argo] & [moncli][moncli]
 - 🙊 I start a new open source organization [TKMonkey][tkmonkey]
 - 🌱 I’m currently learning World history
@@ -41,6 +44,6 @@ I'm a software engineer at [57Blocks][work] in Medellin, CO 🌆
 [linkedin]: <https://linkedin.com/in/jamescardona11>
 [twitter]: <https://twitter.com/jamescardona_11>
 
-[devto]: <https://dev.to/jamescardona11>
-[hashnode]: <https://jamescardona11.hashnode.dev>
+[path]: https://jamescardona11.notion.site/Learning-Path-f43a762b328043269aeb4d6b6d2e31de
 [pblog]: <https://jamescardona11.com>
+[cv]: https://www.dropbox.com/s/69l2vuo9ebjtly2/profile_us.pdf?dl=0
