@@ -3,7 +3,7 @@
 -->
 
 
-# Hola Mundo! 👋 
+# hi there! 👋 
 ```eat(🍜);    sleep(😴);    code(👨🏻‍💻);    repeat(👁‍🗨);```
 
 --
@@ -16,9 +16,9 @@ Download my profile in PDF: [Profile][cv]
 
 Follow my learning path: [Path][path]
 
-- 🔭 I’m currently working on [argo][argo] & [moncli][moncli]
+- 🔭 I’m currently working on [jamescardona11][pblog]
 - 🙊 I start a new open source organization [TKMonkey][tkmonkey]
-- 🌱 I’m currently learning World history
+- 🌱 I’m currently learning Web3 and Clojure
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about [Flutter][flutter]
 - 😄 Pronouns: he/him/his
