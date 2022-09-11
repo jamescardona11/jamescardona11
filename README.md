@@ -8,11 +8,14 @@
 
 --
 
-
 ### About me
 I'm a software engineer at [57Blocks][work] in Medellin, CO 🌆
 
+Check my projects: [Projects][projects]
+
+
 Download my profile in PDF: [Profile][cv]
+
 
 Follow my learning path: [Path][path]
 
@@ -23,7 +26,7 @@ Follow my learning path: [Path][path]
 - 💬 Ask me about [Flutter][flutter]
 - 😄 Pronouns: he/him/his
 - 📫 How to reach me: [Linkedin][linkedin]
-- 📚 I have a new blog hobbie, [blog][pblog]
+- 📚 I have a new blog hobbies, [blog][pblog]
 - ⚡ Fun fact: I like to play poker ♠️
    
 
@@ -47,4 +50,5 @@ Follow my learning path: [Path][path]
 
 [path]: https://jamescardona11.notion.site/Learning-Path-f43a762b328043269aeb4d6b6d2e31de
 [pblog]: <https://jamescardona11.com>
+[projects]: <https://jamescardona11.com/projects>
 [cv]: https://www.dropbox.com/s/69l2vuo9ebjtly2/profile_us.pdf?dl=0
