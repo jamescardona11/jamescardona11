@@ -40,18 +40,29 @@ I'm a software engineer at [57Blocks][work] from Colombia 🌆
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
+
+
+
+### Open Source Projects
+
+[![StarterKitFlutter](https://github-readme-stats.vercel.app/api/pin/?username=jamescardona11&repo=starter_kit_flutter)](https://github.com/jamescardona11/starter_kit_flutter)
+[![Argo](https://github-readme-stats.vercel.app/api/pin/?username=jamescardona11&repo=argo)](https://github.com/jamescardona11/argo)
+[![RollingSwitch](https://github-readme-stats.vercel.app/api/pin/?username=jamescardona11&repo=rolling_switch)](https://github.com/jamescardona11/rolling_switch)
+[![TaleDrawer](https://github-readme-stats.vercel.app/api/pin/?username=jamescardona11&repo=bulma_expense_manager)](https://github.com/jamescardona11/bulma_expense_manager)
+[![bulma_expense_manager](https://github-readme-stats.vercel.app/api/pin/?username=TKMonkey&repo=tale_drawer)](https://github.com/TKMonkey/tale_drawer)
+[![playground_apps](https://github-readme-stats.vercel.app/api/pin/?username=jamescardona11&repo=playground_apps)](https://github.com/jamescardona11/playground_apps)
+[![flutter_ui_challenges](https://github-readme-stats.vercel.app/api/pin/?username=jamescardona11&repo=flutter_ui_challenges)](https://github.com/jamescardona11/flutter_ui_challenges)
+
 ### Github Stats
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamescardona11&show_icons=true&locale=en&layout=compact" alt="jamescardona11" /></p> -->
 [![me](https://github-readme-stats.vercel.app/api?username=jamescardona11&count_private=true&theme=default&show_icons=true)](https://github.com/jamescardona11)
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamescardona11&" alt="jamescardona11" /></p>
-
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamescardona11&show_icons=true&locale=en&layout=compact" alt="jamescardona11" /></p> -->
 
 
-   
 
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamescardona11&" alt="jamescardona11" /></p> -->
 
 
 
