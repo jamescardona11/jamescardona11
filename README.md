@@ -43,15 +43,15 @@ I'm a software engineer at [57Blocks][work] from Colombia 🌆
 
 
 
-### Open Source Projects
+<!--### Open Source Projects
 
-# [![StarterKitFlutter](https://github-readme-stats.vercel.app/api/pin/?username=jamescardona11&repo=starter_kit_flutter)](https://github.com/jamescardona11/starter_kit_flutter)
-#[![Argo](https://github-readme-stats.vercel.app/api/pin/?username=jamescardona11&repo=argo)](https://github.com/jamescardona11/argo)
-#[![RollingSwitch](https://github-readme-stats.vercel.app/api/pin/?username=jamescardona11&repo=rolling_switch)](https://github.com/jamescardona11/rolling_switch)
-#[![TaleDrawer](https://github-readme-stats.vercel.app/api/pin/?username=jamescardona11&repo=bulma_expense_manager)](https://github.com/jamescardona11/bulma_expense_manager)
-#[![bulma_expense_manager](https://github-readme-stats.vercel.app/api/pin/?username=TKMonkey&repo=tale_drawer)](https://github.com/TKMonkey/tale_drawer)
-#[![playground_apps](https://github-readme-stats.vercel.app/api/pin/?username=jamescardona11&repo=playground_apps)](https://github.com/jamescardona11/playground_apps)
-#[![flutter_ui_challenges](https://github-readme-stats.vercel.app/api/pin/?username=jamescardona11&repo=flutter_ui_challenges)](https://github.com/jamescardona11/flutter_ui_challenges)
+ [![StarterKitFlutter](https://github-readme-stats.vercel.app/api/pin/?username=jamescardona11&repo=starter_kit_flutter)](https://github.com/jamescardona11/starter_kit_flutter)
+[![Argo](https://github-readme-stats.vercel.app/api/pin/?username=jamescardona11&repo=argo)](https://github.com/jamescardona11/argo)
+[![RollingSwitch](https://github-readme-stats.vercel.app/api/pin/?username=jamescardona11&repo=rolling_switch)](https://github.com/jamescardona11/rolling_switch)
+[![TaleDrawer](https://github-readme-stats.vercel.app/api/pin/?username=jamescardona11&repo=bulma_expense_manager)](https://github.com/jamescardona11/bulma_expense_manager)
+[![bulma_expense_manager](https://github-readme-stats.vercel.app/api/pin/?username=TKMonkey&repo=tale_drawer)](https://github.com/TKMonkey/tale_drawer)
+[![playground_apps](https://github-readme-stats.vercel.app/api/pin/?username=jamescardona11&repo=playground_apps)](https://github.com/jamescardona11/playground_apps)
+[![flutter_ui_challenges](https://github-readme-stats.vercel.app/api/pin/?username=jamescardona11&repo=flutter_ui_challenges)](https://github.com/jamescardona11/flutter_ui_challenges) -->
 
 ### Github Stats
 
