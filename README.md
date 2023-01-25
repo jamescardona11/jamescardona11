@@ -8,8 +8,9 @@
 
 
 ### About me
-I'm a software engineer at [57Blocks][work] from Colombia 🌆
+I'm a software engineer at [PhononX][work] from Colombia 🌆
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/JMcfR0D.gif">
+
 
 
 
@@ -71,7 +72,7 @@ I'm a software engineer at [57Blocks][work] from Colombia 🌆
 
 
 [//]: #Articles
-[work]: <https://57blocks.io>
+[work]: <phononx.com>
 [argo]: <https://github.com/jamescardona11/argo>
 [moncli]: <https://github.com/TKMonkey/moncli>
 [tkmonkey]: <https://github.com/TKMonkey>
