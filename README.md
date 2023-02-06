@@ -72,7 +72,7 @@ I'm a software engineer at [PhononX][work] from Colombia 🌆
 
 
 [//]: #Articles
-[work]: <phononx.com>
+[work]: <https://www.phononx.com>
 [argo]: <https://github.com/jamescardona11/argo>
 [moncli]: <https://github.com/TKMonkey/moncli>
 [tkmonkey]: <https://github.com/TKMonkey>
