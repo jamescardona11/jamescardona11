@@ -16,7 +16,7 @@ I'm a software engineer at [PhononX][work] from Colombia 🌆
 
 
 
-- 🔭 I’m currently working on [StarterKit][starter_kit]
+- 🔭 I’m currently working on [Drip][current_work]
 - 🙊 I start a new open source organization [TKMonkey][tkmonkey]
 - 🌱 I’m currently learning Web3 and Software Architecture
 - 👯 I’m looking to collaborate on open source projects
@@ -86,6 +86,6 @@ I'm a software engineer at [PhononX][work] from Colombia 🌆
 [pblog]: <https://blog.jamescardona11.com>
 [dev.to]: <https://dev.to/jamescardona11>
 [j11]: <https://jamescardona11.com>
-[starter_kit]: <https://github.com/jamescardona11/starter_kit_flutter>
+[current_work]: <https://github.com/jamescardona11/drip>
 [projects]: <https://jamescardona11.com/projects>
 [cv]: https://www.dropbox.com/s/69l2vuo9ebjtly2/profile_us.pdf?dl=0
