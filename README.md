@@ -17,9 +17,9 @@ I'm a software engineer at [PhononX][work] from Colombia 🌆
 
 
 - 🔭 I’m currently working on [Drip][current_work]
-- 🙊 I start a new open source organization [TKMonkey][tkmonkey]
+- 🙊 I start a new open-source organization [TKMonkey][tkmonkey]
 - 🌱 I’m currently learning Web3 and Software Architecture
-- 👯 I’m looking to collaborate on open source projects
+- 👯 I’m looking to collaborate on open-source projects
 - 📄 Download my profile in PDF: [Profile][cv]
 - 💬 Ask me about [Flutter][flutter]
 - 😄 Pronouns: he/him/his
@@ -54,9 +54,9 @@ I'm a software engineer at [PhononX][work] from Colombia 🌆
 [![playground_apps](https://github-readme-stats.vercel.app/api/pin/?username=jamescardona11&repo=playground_apps)](https://github.com/jamescardona11/playground_apps)
 [![flutter_ui_challenges](https://github-readme-stats.vercel.app/api/pin/?username=jamescardona11&repo=flutter_ui_challenges)](https://github.com/jamescardona11/flutter_ui_challenges) -->
 
-### Github Stats
+<!-- ### Github Stats -->
 
-[![me](https://github-readme-stats.vercel.app/api?username=jamescardona11&count_private=true&theme=default&show_icons=true)](https://github.com/jamescardona11)
+<!--[![me](https://github-readme-stats.vercel.app/api?username=jamescardona11&count_private=true&theme=default&show_icons=true)](https://github.com/jamescardona11) -->
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamescardona11&show_icons=true&locale=en&layout=compact" alt="jamescardona11" /></p> -->
 
