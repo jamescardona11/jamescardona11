@@ -27,7 +27,7 @@ I'm a software engineer at [PhononX][work] from Colombia 🌆
 - 💬 Ask me about [Flutter][flutter]
 - 😄 Pronouns: he/him/his
 - 📫 How to reach me: [Linkedin][linkedin] & [j11][j11]
-- 📝 I regularly write articles on [hashnode][pblog] - [medium][medium]
+- 📝 I regularly write articles on [hashnode][pblog] - [medium](https://medium.com/@jamescardona11)
 - ⚡ Fun fact: I like to play poker ♠️
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamescardona11&label=Profile%20views&color=0e75b6&style=flat" alt="jamescardona11" /> </p>
@@ -78,12 +78,10 @@ I'm a software engineer at [PhononX][work] from Colombia 🌆
 [argo]: <https://github.com/jamescardona11/argo>
 [moncli]: <https://github.com/TKMonkey/moncli>
 [tkmonkey]: <https://github.com/TKMonkey>
-
 [flutter]: <https://flutter.dev>
 
 [linkedin]: <https://linkedin.com/in/jamescardona11>
 [twitter]: <https://twitter.com/jamescardona_11>
-
 [path]: https://jamescardona11.notion.site/Learning-Path-f43a762b328043269aeb4d6b6d2e31de
 [pblog]: <https://blog.jamescardona11.com>
 [dev.to]: <https://dev.to/jamescardona11>
