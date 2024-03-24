@@ -87,8 +87,8 @@ I'm a software engineer at [PhononX][work] from Colombia 🌆
 [path]: https://jamescardona11.notion.site/Learning-Path-f43a762b328043269aeb4d6b6d2e31de
 [pblog]: <https://blog.jamescardona11.com>
 [dev.to]: <https://dev.to/jamescardona11>
-[medium]: <[https://dev.to/jamescardona11](https://medium.com/@jamescardona11)>
+[medium]: <[https://medium.com/@jamescardona11]>
 [j11]: <https://jamescardona11.com>
 [current_work]: <https://github.com/jamescardona11/drip>
 [projects]: <https://jamescardona11.com/projects>
-[cv]: https://www.dropbox.com/s/69l2vuo9ebjtly2/profile_us.pdf?dl=0
+[cv]: [https://www.dropbox.com/s/69l2vuo9ebjtly2/profile_us.pdf?dl=0](https://drive.google.com/file/d/1Kn9Vm_wv7xxEzcMQAnxqK6jvgWeH420C/view)https://drive.google.com/file/d/1Kn9Vm_wv7xxEzcMQAnxqK6jvgWeH420C/view
