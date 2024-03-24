@@ -1,7 +1,13 @@
 <!--
 **jamescardona11/jamescardona11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+REF: https://github.com/flamrdevs
+
+
+<img align="right" alt="Coding" width="400" src="https://i.imgur.com/JMcfR0D.gif">
 -->
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io) -->
+
+
 # hi there! 👋 
 
 ``` sleep(😴);    eat(🍜);   code(👨🏻‍💻);    repeat(👁‍🗨);```
@@ -9,9 +15,6 @@
 
 ### About me
 I'm a software engineer at [PhononX][work] from Colombia 🌆
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/JMcfR0D.gif">
-
-
 
 
 
@@ -33,7 +36,7 @@ I'm a software engineer at [PhononX][work] from Colombia 🌆
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://blog.jamescardona11.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="jamescardona11" height="30" width="40" /></a>
-<a href="https://dev.to/jamescardona11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jamescardona11" height="30" width="40" /></a>
+<a href="[https://dev.to/jamescardona11](https://medium.com/@jamescardona11)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="jamescardona11" height="30" width="40" /></a>
 <a href="https://twitter.com/jamescardona11_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jamescardona11_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jamescardona11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamescardona11" height="30" width="40" /></a>
 </p>
