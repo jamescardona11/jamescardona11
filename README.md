@@ -34,6 +34,7 @@ I'm a software engineer at [PhononX][work] from Colombia 🌆
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <a href="https://dev.to/jamescardona11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jamescardona11" height="30" width="40" /></a>
 <a href="https://blog.jamescardona11.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="jamescardona11" height="30" width="40" /></a>
 <a href="https://medium.com/@jamescardona11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="jamescardona11" height="30" width="40" /></a>
 <a href="https://twitter.com/jamescardona11_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jamescardona11_" height="30" width="40" /></a>
