@@ -21,10 +21,10 @@ I'm a software engineer at [PhononX][work] from Colombia 🌆
 
 - 🔭 I’m currently working on [Drip][current_work]
 - 🙊 I start a new Youtube channel [Youtube](https://www.youtube.com/@jamescardona11)
-- 🌱 I’m currently learning Web3 and Software Architecture
+- 🌱 I’m currently grokking the coding interview
 - 👯 I’m looking to collaborate on open-source projects
 - 📄 Download my profile in PDF: [Profile](https://cv.jamescardona11.com/)
-- 💬 Ask me about [Flutter][flutter]
+- 💬 Ask me about Flutter, Android, Node.js
 - 😄 Pronouns: he/him/his
 - 📫 How to reach me: [Linkedin][linkedin]
 - 📝 I write articles on [dev.to][dev.to] - [medium](https://medium.com/@jamescardona11)
