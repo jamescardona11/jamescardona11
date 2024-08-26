@@ -23,7 +23,6 @@ I'm a software engineer at [PhononX][work] from Colombia 🌆
 - 🙊 I start a new Youtube channel [Youtube](https://www.youtube.com/@jamescardona11)
 - 🌱 I’m currently grokking the coding interview
 - 👯 I’m looking to collaborate on open-source projects
-- 📄 Download my profile in PDF: [Profile](https://cv.jamescardona11.com/)
 - 💬 Ask me about Flutter, Android, Node.js
 - 😄 Pronouns: he/him/his
 - 📫 How to reach me: [Linkedin][linkedin]
