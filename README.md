@@ -10,7 +10,7 @@ REF: https://github.com/flamrdevs
 
 # hi there! 👋 
 
-``` sleep(😴);    eat(🍜);   code(👨🏻‍💻);    repeat(👁‍🗨);```
+``` sleep(😴);    run(🏃‍♂️‍➡️);    eat(🍜);   code(👨🏻‍💻);    repeat(👁‍🗨);```
 
 
 ### About me
