@@ -14,13 +14,10 @@ REF: https://github.com/flamrdevs
 
 
 ### About me
-I'm a software engineer at [PhononX][work] from Colombia 🌆
+I'm a software engineer from Colombia 🌆
 
-
-
-
-- 🔭 I’m currently working on [ALGOPATH][current_work]
-- 🙊 I start a new Youtube channel [Youtube](https://www.youtube.com/@jamescardona11)
+- 🔭 I’m currently working on [ALGOPATH][current_work] SideProject.
+- 🙊 I started a new Youtube channel [Youtube](https://www.youtube.com/@jamescardona11)
 - 🌱 I’m currently grokking the coding interview
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about Flutter, Android, Node.js
