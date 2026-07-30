@@ -19,21 +19,8 @@ For the last 5+ years, I’ve specialized in Flutter and Dart while continuing t
 
 ## Core technologies
 
-`Flutter` · `Dart` · `React` · `Node.js` · `TypeScript` · `Kotlin` · `Swift` · `Solidity`
+`Flutter` · `React` · `Node.js` · `TypeScript` · `Kotlin` · `Swift` · `Solidity`
 
-## Selected open-source work
-
-### [Argo](https://github.com/jamescardona11/argo)
-
-Responsive widgets and tools for building Flutter applications across mobile, tablet, and web.
-
-### [Rolling Switch](https://github.com/jamescardona11/rolling_switch)
-
-A customizable animated switch component for Flutter, published as a reusable package.
-
-### [Flutter UI Challenges](https://github.com/jamescardona11/flutter_ui_challenges)
-
-A collection of Flutter interface experiments, animations, and application concepts.
 
 ## Connect
 
