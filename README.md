@@ -1,15 +1,14 @@
 # James Cardona
 
-**Senior Mobile Engineer · Flutter & Native**
+**Senior Software Engineer building an AI Doctor across full-stack and mobile systems.**
 
-I’m a software engineer from Colombia with 12+ years of experience building mobile products across Flutter, Android, iOS, backend systems, and Web3.
+I’m a software engineer from Colombia with 12+ years of experience building production products across Flutter, React, Node.js, Android, iOS, and Web3.
 
 For the last 5+ years, I’ve specialized in Flutter and Dart while continuing to work with Kotlin, Swift, and native mobile integrations. I’ve defined mobile architectures, shipped production applications, built cross-platform foundations, and led engineering teams of up to 24 people.
 
-Currently, I’m building AI-powered healthcare products at Telepatia.
-
 ## What I work on
 
+- Full-stack product development with React and Node.js
 - Mobile architecture and cross-platform foundations
 - Flutter and Dart applications
 - Native Android and iOS integrations
@@ -20,7 +19,7 @@ Currently, I’m building AI-powered healthcare products at Telepatia.
 
 ## Core technologies
 
-`Flutter` · `Dart` · `Kotlin` · `Swift` · `Android` · `iOS` · `Firebase` · `Node.js` · `Solidity`
+`Flutter` · `Dart` · `React` · `Node.js` · `TypeScript` · `Kotlin` · `Swift` · `Solidity`
 
 ## Selected open-source work
 
