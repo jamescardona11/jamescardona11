@@ -1,10 +1,10 @@
 # James Cardona
 
-**Senior Software Engineer building an AI Doctor across full-stack and mobile systems.**
+**I build software for mobile and the web, and I like turning rough ideas into things people can actually use.**
 
 I’m a software engineer from Colombia with 12+ years of experience building production products across Flutter, React, Node.js, Android, iOS, and Web3.
 
-For the last 5+ years, I’ve specialized in Flutter and Dart while continuing to work with Kotlin, Swift, and native mobile integrations. I’ve defined mobile architectures, shipped production applications, built cross-platform foundations, and led engineering teams of up to 24 people.
+For the last 5+ years, I’ve specialized in Flutter and Dart while continuing to work with Kotlin, Swift, and native mobile integrations. I’ve helped shape mobile architectures, ship production applications, and build cross-platform foundations alongside teams as they grow.
 
 ## What I work on
 
